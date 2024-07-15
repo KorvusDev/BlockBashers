@@ -1,0 +1,16 @@
+Friday Night Funkin' Ascended_Data
+MonoBleedingEdge
+Friday Night Funkin' Ascended_Data\Managed
+Friday Night Funkin' Ascended_Data\Resources
+Friday Night Funkin' Ascended_Data\Settings
+Friday Night Funkin' Ascended_Data\StreamingAssets
+MonoBleedingEdge\EmbedRuntime
+MonoBleedingEdge\etc
+MonoBleedingEdge\etc\mono
+MonoBleedingEdge\etc\mono\2.0
+MonoBleedingEdge\etc\mono\4.0
+MonoBleedingEdge\etc\mono\4.5
+MonoBleedingEdge\etc\mono\mconfig
+MonoBleedingEdge\etc\mono\2.0\Browsers
+MonoBleedingEdge\etc\mono\4.0\Browsers
+MonoBleedingEdge\etc\mono\4.5\Browsers
