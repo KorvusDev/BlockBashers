@@ -1,9 +1,13 @@
-Friday Night Funkin' Ascended_Data
+Block Bashers_Data
 MonoBleedingEdge
-Friday Night Funkin' Ascended_Data\Managed
-Friday Night Funkin' Ascended_Data\Resources
-Friday Night Funkin' Ascended_Data\Settings
-Friday Night Funkin' Ascended_Data\StreamingAssets
+Block Bashers_BurstDebugInformation_DoNotShip\Data
+Block Bashers_BurstDebugInformation_DoNotShip\Data\Plugins
+Block Bashers_BurstDebugInformation_DoNotShip\Data\Plugins\x86_64
+Block Bashers_Data\Managed
+Block Bashers_Data\Plugins
+Block Bashers_Data\Resources
+Block Bashers_Data\StreamingAssets
+Block Bashers_Data\Plugins\x86_64
 MonoBleedingEdge\EmbedRuntime
 MonoBleedingEdge\etc
 MonoBleedingEdge\etc\mono
