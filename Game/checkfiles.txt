@@ -1,7 +1,4 @@
 Block Bashers.exe
-checkfiles.txt
-file_checker.py
-folder_checker.py
 UnityCrashHandler64.exe
 UnityPlayer.dll
 Block Bashers_Data\app.info
@@ -21,6 +18,7 @@ Block Bashers_Data\sharedassets1.assets
 Block Bashers_Data\sharedassets1.assets.resS
 Block Bashers_Data\sharedassets1.resource
 Block Bashers_Data\sharedassets2.assets
+Block Bashers_Data\version.dat
 Block Bashers_Data\Managed\Assembly-CSharp.dll
 Block Bashers_Data\Managed\Facepunch Transport for Netcode for GameObjects.dll
 Block Bashers_Data\Managed\Facepunch.Steamworks.Win64.dll
