@@ -1,8 +1,5 @@
 Block Bashers_Data
 MonoBleedingEdge
-Block Bashers_BurstDebugInformation_DoNotShip\Data
-Block Bashers_BurstDebugInformation_DoNotShip\Data\Plugins
-Block Bashers_BurstDebugInformation_DoNotShip\Data\Plugins\x86_64
 Block Bashers_Data\Managed
 Block Bashers_Data\Plugins
 Block Bashers_Data\Resources
