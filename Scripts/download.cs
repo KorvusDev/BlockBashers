@@ -7,7 +7,7 @@ using System.IO.Compression;
 using UnityEngine.Networking;
 using UnityEngine.UI;
 
-//  <-- Versió reducida i modificada de l'script original -->  //
+//  <-- Versió reduïda i modificada de l'script original -->  //
 public class ModdingObject : MonoBehaviour
 {
     //  <-- Iniciar corrutines -->  //
