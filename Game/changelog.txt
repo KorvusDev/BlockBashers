@@ -1,9 +1,9 @@
-<b>Ascended RLS v1.1</b>
-* Hold arrows.
-* New chart converter.
-* New arrow types.
-* New pause menu.
-* Streaks.
-* Fix some performance issues.
-* Added Touch support.
-* Added a Launcher
+<b>Block Bashers ALPHA v11.4 v1.1</b>
+* Mods support.
+* Multiplayer.
+* Customization.
+* Race mode (4 variants).
+* Cool music.
+* Improved gameplay.
+* Error fixes.
+* Block Bashers Launcher.
