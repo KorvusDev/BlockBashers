@@ -1,4 +1,4 @@
-<b>Block Bashers ALPHA v11.4</b>
+<b>Block Bashers ALPHA v11.5</b>
 * Mods support.
 * Multiplayer.
 * Customization.
